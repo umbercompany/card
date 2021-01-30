@@ -135,3 +135,15 @@ h5{
 .copy{
   margin-right: 20px;
 }
+@media (min-width: 200px) and (max-width: 600px)
+{
+  .container{
+    width: 100vw;
+    height: 100vh;
+    padding-bottom: 10px;
+  }
+  .i{
+    margin-bottom: 10px;
+  }
+}
+
